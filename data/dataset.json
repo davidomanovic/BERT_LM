@@ -1,0 +1,52 @@
+[
+    {
+        "context": "Machine learning is a branch of artificial intelligence that focuses on building systems that learn from data.",
+        "question": "What does machine learning focus on?",
+        "answer": "building systems that learn from data"
+    },
+    {
+        "context": "Natural language processing enables computers to understand and generate human language.",
+        "question": "What does natural language processing enable?",
+        "answer": "computers to understand and generate human language"
+    },
+    {
+        "context": "Neural networks are computational models inspired by the human brain's structure and function.",
+        "question": "What are neural networks inspired by?",
+        "answer": "the human brain's structure and function"
+    },
+    {
+        "context": "Deep learning uses multiple layers of neural networks to learn representations of data with multiple levels of abstraction.",
+        "question": "What does deep learning use to learn representations of data?",
+        "answer": "multiple layers of neural networks"
+    },
+    {
+        "context": "BERT is a transformer-based model pre-trained on a large corpus of text data for masked language modeling tasks.",
+        "question": "What kind of model is BERT?",
+        "answer": "a transformer-based model"
+    },
+    {
+        "context": "Supervised learning involves training a model on labeled data, which means the correct answers are provided in the training data.",
+        "question": "What does supervised learning involve?",
+        "answer": "training a model on labeled data"
+    },
+    {
+        "context": "Unsupervised learning is used when the model has to learn from data without explicit labels or correct answers.",
+        "question": "When is unsupervised learning used?",
+        "answer": "when the model has to learn from data without explicit labels"
+    },
+    {
+        "context": "Reinforcement learning is a type of machine learning where an agent learns by interacting with its environment and receiving rewards.",
+        "question": "How does an agent learn in reinforcement learning?",
+        "answer": "by interacting with its environment and receiving rewards"
+    },
+    {
+        "context": "In computer vision, convolutional neural networks are often used to analyze visual data.",
+        "question": "What kind of neural networks are used in computer vision?",
+        "answer": "convolutional neural networks"
+    },
+    {
+        "context": "Transfer learning allows models trained on one task to be adapted for another, often with less training data.",
+        "question": "What is transfer learning?",
+        "answer": "models trained on one task adapted for another"
+    }
+]
